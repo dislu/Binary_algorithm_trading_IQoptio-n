@@ -64,6 +64,7 @@ while True:
                 if(ras>0.2):
                    if(not trigger): 
                      index = int(dec)
+                     trigger = 2+ ~trigger
                    else:
                      index = ~int(dec)
                      trigger = 2+ ~trigger
