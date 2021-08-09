@@ -3,7 +3,7 @@
 from pyiqoptionapi import IQOption
 import time
 from RAS import RAS
-Iq = IQOption("arvind8198@gmail.com","%mG+H6vuvD_ETtC")
+Iq = IQOption("arvind8198@gmail.com","******")
 Iq.connect()
 Money=5
 ACTIVES="EURUSD"
