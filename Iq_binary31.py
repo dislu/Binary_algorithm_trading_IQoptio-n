@@ -18,8 +18,8 @@ class Iq_Binary31:
           print("import random")
           print("import time")
           
-          print("login! :IQOption('arvind8198@gmail.com','%mG+H6vuvD_ETtC')")
-          self.Iq=self.IQOption("arvind8198@gmail.com","%mG+H6vuvD_ETtC")
+          print("login! :IQOption('arvind8198@gmail.com','****************')")
+          self.Iq=self.IQOption("arvind8198@gmail.com","*****************")
           print("connection to iqoption")
           check = self.Iq.connect()#connect to iqoption
           print(check)
